@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                             Currency_Convert = Num * 0.05;
                             result.setText(Num + "US = " + tenth.format(Currency_Convert) + "Mexican");
                         } else
-                            Toast.makeText(MainActivity.this, "US yasdasdfasdf Dollar input should be < $100,000", Toast.LENGTH_LONG).show();
+                            Toast.makeText(MainActivity.this, "US  Dollar input should be < $100,000", Toast.LENGTH_LONG).show();
 
                     }
 
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                             Currency_Convert = Num * 0.79;
                             result.setText(Num + "US = " + tenth.format(Currency_Convert) + "Canadian");
                         } else
-                            Toast.makeText(MainActivity.this, "US Dollar asdfasdfasdafasdf input should be < $100,000", Toast.LENGTH_LONG).show();
+                            Toast.makeText(MainActivity.this, "US Dollar  input should be < $100,000", Toast.LENGTH_LONG).show();
 
                     }
 
