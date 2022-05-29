@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="textview">Currency Converter App</string>
+    <string name="textfield"></string>
+    <string name="button">convert</string>
+    <string name="radiobutton1">Euro</string>
+    <string name="radiobutton2">Mexican Peso</string>
+    <string name="radiobutton3">Canadian Dollar</string>
+    <string name="hint">Monetary Value (U.S Dollar)</string>
+    <string name="textresult">result</string>
+</resources>
